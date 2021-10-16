@@ -1,5 +1,5 @@
 <div align="center">
-<h2><br> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am <a href="https://sites.google.com/view/mhre-portfolio/home"><b>MD. Hamim Rahman Emo</b><br>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am <a href="https://sites.google.com/view/mhre-portfolio/home"><b>MD. Hamim Rahman Emo</b></a>
 <h2> I am a Computer Engineer, passionate Data Scientist and I love solving problems as well as conducting research on new machine learning architectures.</h2>
 </div>
 
