@@ -1,18 +1,10 @@
-- 👋 Hi, I’m Md Hamim Rahman Emo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am MD. Hamim Rahman Emo   <img src="gifs\Hi.gif" width="30px"></h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am MD. Hamim Rahman Emo 
 <h2> I am a Computer Engineer, passionate Data Scientist and I love solving business problems with data as well as conducting research on new machine learning architectures.</h2>
 </div>
 
 <div align="center" width="50">
 
-<img src="gifs\Nlw34mpU.gif" alt="Welcome!" width="300"/>
 
 </div>
 
