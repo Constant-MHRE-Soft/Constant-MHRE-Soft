@@ -1,6 +1,6 @@
 <div align="center">
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! I am MD. Hamim Rahman Emo 
-<h2> I am a Computer Engineer, passionate Data Scientist and I love solving problems with data as well as conducting research on new machine learning architectures.</h2>
+<h2> I am a Computer Engineer, passionate Data Scientist and I love solving problems as well as conducting research on new machine learning architectures.</h2>
 </div>
 
 <div align="center" width="50">
